@@ -36,7 +36,7 @@ const Notice = ({notice}) => {
                         variant="button"
                         width='100%'
                         underline="hover"
-                        sx={{margin: '0 10px'}}
+                        sx={{margin: '0 12px'}}
                     >Read Notice</Link>
                 </CardActions>
             </Card>
